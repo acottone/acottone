@@ -1,4 +1,4 @@
-# Hey, I'm Angelina Cottone!
+# Hi, I'm Angelina Cottone
 
 **Statistics student at UC Davis**
 **Passionate about Healthcare and Data Science**
